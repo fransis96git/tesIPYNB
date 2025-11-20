@@ -1,9 +1,6 @@
 ## Tes Python 123  
 > [!NOTE]
-> **_Repo ini berisi beberapa kode python yang mempermudah_** :
-> - Upload File
-> - ...
-> - dll
+> **_Repo ini berisi experiment pemula_**
 
 ### Upload File
 ```Python
